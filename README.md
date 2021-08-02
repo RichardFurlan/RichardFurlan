@@ -1,7 +1,6 @@
 ### Olá! Eu sou o Richard Furlan!
 
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning TypeScript, Node.js and ReactJS
 ##
 
