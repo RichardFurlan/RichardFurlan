@@ -14,6 +14,12 @@
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RichardFurlan&bg_color=000000&color=ffffff&line=00ffd5&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
 
+## Minhas habilidades 
+:
+![HTML](https://img.shields.io/badge/ASP.NET-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+
   
   </div>
 <div style="display: inline_block"><br>
