@@ -2,9 +2,17 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Poppins&duration=6000&pause=1005&color=3498DB&size=30&center=true&vCenter=true&random=false&width=1000&lines=Ol%C3%A1%2C+eu+sou+Richard+Furlan+Desenvolvedor+Full-Stack+%F0%9F%92%BB;Bem-vindo+ao+Meu+GitHub+:%29)](https://git.io/typing-svg)
 
+<p align="center">👋 Olá! Sou o Richard, um entusiasta da tecnologia de 22 anos embarcando na jornada de ser um desenvolvedor. Motivado pela paixão por desafios, estou dedicado a aprender e crescer no universo da programação. Cada linha de código é um passo em direção ao meu objetivo de ser um desenvolvedor excepcional. Animado com o aprendizado contínuo, estou pronto para contribuir para a inovação no mundo da tecnologia. 🚀✨
+</p>
 
-- 🌱 I’m currently learning Ruby, Flutter and VueJS
 ##
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=RichardFurlan&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Bruno" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RichardFurlan&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RichardFurlan&bg_color=000000&color=ffffff&line=00ffd5&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+</div>
 
  <div>
   <a href="https://github.com/RichardFurlan">
