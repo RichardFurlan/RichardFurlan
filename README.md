@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3498db&height=160&section=header"/>
 
-### Olá! Eu sou o Richard Furlan!
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Poppins&duration=6000&pause=1005&color=3498DB&center=true&vCenter=true&random=false&width=1000&lines=Ol%C3%A1+Sou+Richard+Furlan+Desenvolvedor+Full-Stack+%F0%9F%92%BB;Bem-vindo+ao+Meu+GitHub+:%29)](https://git.io/typing-svg)
 
 
 - 🌱 I’m currently learning Ruby, Flutter and VueJS
