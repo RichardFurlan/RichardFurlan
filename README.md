@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=3498db&height=300&section=header&text=capsule%20render&fontSize=90)
+
 ### Olá! Eu sou o Richard Furlan!
 
 
