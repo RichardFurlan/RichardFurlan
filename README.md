@@ -14,12 +14,6 @@
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RichardFurlan&bg_color=000000&color=ffffff&line=00ffd5&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
 
- <div>
-  <a href="https://github.com/RichardFurlan">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RichardFurlan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RichardFurlan&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
   
   </div>
 <div style="display: inline_block"><br>
