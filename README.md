@@ -14,8 +14,7 @@
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RichardFurlan&bg_color=000000&color=ffffff&line=00ffd5&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
 
-## Minhas habilidades 
-:
+## Minhas habilidades :
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
